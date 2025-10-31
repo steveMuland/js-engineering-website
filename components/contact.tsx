@@ -126,7 +126,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-sm text-muted-foreground">+243 (0) 992-226-149</p>
+                    <p className="text-sm text-muted-foreground">+243 (0) 843-356-760</p>
                   </div>
                 </div>
               </CardContent>
